@@ -1,2 +1,2 @@
-# apm-dashboard-fe
-application performance monitor dashboard for front-end
+# APM-Dashboard-fe
+Application performance monitor dashboard for front-end
